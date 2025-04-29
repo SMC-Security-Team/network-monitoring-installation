@@ -1,7 +1,7 @@
 # Network Monitoring Platform Documents
 
 ## System Archtecture
-
+![Architecture Diagram](architecture.jpg)
 
 ## Suggested Installation Order
 1. [OpenSearh](https://opensearch.org/docs/latest/install-and-configure/install-opensearch/index/) or [Wazuh Platform](https://documentation.wazuh.com/current/index.html)  (if you want to use Wazuh SIEM for Host-based IDS)
